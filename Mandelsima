@@ -1,6 +1,3 @@
-// A feladat Google C++ style megoldását készítette : Iványi-Nagy Gábor
-// Tutor : Szimeonov Nikolett
-
 #include <png++/png.hpp>
 
 #define N 500

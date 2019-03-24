@@ -142,3 +142,5 @@ public class Mandelbrot extends JFrame implements ActionListener {
         new Mandelbrot().setVisible(true);
     }
 }
+
+DREAM
